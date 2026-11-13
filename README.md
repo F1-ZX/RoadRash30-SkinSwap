@@ -47,7 +47,7 @@ PC 移植版把车手精灵的颜色抽出来做成了运行时查表：精灵�
 
 ## 快速开始（玩家）
 
-1. 在 [Releases](https://github.com/F1-ZX/RoadRash30-SkinSwap/releases) 下载对应版本的 `车皮调色台.exe`（v2.0）或 `车皮调色台_v1.0.exe`。
+1. 在 [Releases](https://github.com/F1-ZX/RoadRash30-SkinSwap/releases) 下载 `RoadRashSkinStudio_v2.0.exe`（推荐）或 `RoadRashSkinStudio_v1.0.exe`（轻量版）。EXE 可任意重命名，双击即可运行。
 2. 双击运行。程序会自动探测 Steam 库（含 `libraryfolders.vdf` 与其它盘符）；找不到就点 **选择 exe / Browse exe** 手动定位 `RoadRash95.exe`。
 3. **语言**：中文系统默认简体中文，其它系统默认 English。点路径栏最右侧的 **English / 中文** 按钮即可切换（程序会重启一次，选择被记住）。
 4. 修复 Bug：点 **官方修复 (Rat⇄Super) / Official Fix**；或直接在卡片下拉框里给任意槽位指派配色。

@@ -47,7 +47,7 @@ This tool rewrites those 3840 bytes in-place — no file replacement, no DLL inj
 
 ## Quick start
 
-1. Download `车皮调色台.exe` (v2.0) or `车皮调色台_v1.0.exe` from [Releases](https://github.com/F1-ZX/RoadRash30-SkinSwap/releases). No Python installation needed.
+1. Download `RoadRashSkinStudio_v2.0.exe` (recommended) or `RoadRashSkinStudio_v1.0.exe` (lightweight) from [Releases](https://github.com/F1-ZX/RoadRash30-SkinSwap/releases). No Python installation needed; the EXE can be renamed freely.
 2. Run it. The tool auto-detects your Steam library (including `libraryfolders.vdf` and other drive letters); otherwise click **Browse exe** and point it at `RoadRash95.exe`.
 3. **Language**: Chinese systems default to Simplified Chinese, everything else defaults to English. Click the **English / 中文** button at the right end of the path row to switch (the app restarts once; the choice is remembered).
 4. To fix the bug, click **Official Fix (Rat⇄Super)** — or use the dropdown on any card to assign any built-in palette.
