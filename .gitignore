@@ -1,0 +1,29 @@
+# 构建产物 / Build artifacts
+build/
+build10/
+dist/
+发布/
+发布_v1.0/
+*.spec
+*.exe
+*.exe.*
+*.pyc
+*.pyo
+__pycache__/
+
+# 运行时生成的本地状态 / Local runtime state
+车皮调色台_设置.json
+车皮调色台_错误.log
+自检结果.json
+*.调色台备份_*
+*.bak
+probe_palette_backup.raw
+
+# 临时 / 编辑器 / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.venv/
+venv/
+*.tmp
